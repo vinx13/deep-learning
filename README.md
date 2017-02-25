@@ -1,4 +1,4 @@
-# deep-learning
+# Deep Learning
 This repo contains reports on some topics of deep learning. 
 * [Object Detection](object-detection.md)
 * [Object Segmentation](object-segmentation.md)
